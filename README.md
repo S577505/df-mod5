@@ -19,4 +19,6 @@ Exported three school-related emails from Outlook as `.eml` files and examined t
 Recorded each Message-ID, available originating-IP information, transport encryption details, and hashing-related headers. Where the original public IP or standalone email-content hash was absent, documented that limitation rather than assuming a value. SHA-384 in a TLS cipher suite does not by itself establish a separate message-content hash.
 
 ## Verification screenshots
-Screenshots from the local computer will be uploaded to this repository to document the steps and recovered evidence. Email screenshots should avoid exposing personal addresses or other sensitive information unnecessarily.
+All nine verification screenshots from the local computer are included in the uploaded PDF. They document the recovered photographic evidence, JPEG header repair, hidden website and image messages, and email-header investigations.
+
+**[View Module 5 Verification Screenshots (PDF)](Module5_Verification_Screenshots.pdf)**
